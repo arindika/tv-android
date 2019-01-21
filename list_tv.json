@@ -1,33 +1,33 @@
 [
    {
       "title":"Metro TV News",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_abpnews.jpg",
+      "image":"https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png",
       "play":"http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
    },
    {
-      "title":"NDTV 24x7",
+      "title":"TRANS 7",
+      "image":"https://akcdn.detik.net.id/community/media/visual/2016/04/26/5c0b8b8c-08bd-4b70-ab17-9fbcd4d378eb_169.jpg?w=780&q=90",
+      "play":"http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+   },
+   {
+      "title":"RCTI",
       "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtv247.gif",
-      "play":"http://ndtv.indostan.epac.to/ndtv/247lo/live/native"
+      "play":"http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com"
    },
    {
-      "title":"NDTV 24x7 2",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtv247.gif",
-      "play":"http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8"
+      "title":"TRANS TV",
+      "image":"http://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png",
+      "play":"http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com"
    },
    {
-      "title":"NDTV GoodTimes",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtvgoodtimes.png",
-      "play":"http://bglive-a.bitgravity.com/ndtv/prohi/live/native"
+      "title":"TV One",
+      "image":"http://1.bp.blogspot.com/-MCd5bTL6Nlo/TcPlZ3jNbfI/AAAAAAAAA8o/sVFGQ6tyMEQ/s320/TVONE+08.jpg",
+      "play":"http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com"
    },
    {
-      "title":"NDTV India (Hindi)",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtvindia.png",
-      "play":"http://ndtv.indostan.epac.to/ndtv/indlo/live/native"
-   },
-   {
-      "title":"NDTV India (Hindi) 2",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtvindia.png",
-      "play":"http://bglive-a.bitgravity.com/ndtv/indlo/live/native"
+      "title":"Kompas TV",
+      "image":"https://media-id.kompas.tv/webassets/images/365x100web.png",
+      "play":"http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com"
    },
    {
       "title":"NDTV Prime",
